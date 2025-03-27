@@ -1,9 +1,7 @@
 ## Hi! I'm Nailea :smile_cat:
 
 - I'm currently finishing my Computer Engineering degree.
-- I've always been a bit of a nerd, and honestly, that hasn't changed a bit—probably explains my love for coding. ✨
-- I absolutely love learning and discovering new things—curiosity is just part of who I am.
-- Lately, I've been super into Artificial Intelligence. :running:
+- I absolutely love learning and discovering new things ✨.
 
 ### Languages 
 
