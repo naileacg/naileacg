@@ -1,6 +1,6 @@
 ## Hi! I'm Nailea :smile_cat:
 
-- I'm currently finishing my Computer Engineering degree.
+- I'm currently finishing my Computer Engineering degree at the University of La Laguna (ULL).
 - I absolutely love learning and discovering new things ✨.
 
 ### Languages 
