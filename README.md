@@ -5,7 +5,7 @@
 
 ### Languages 
 
-[![My Languages](https://skillicons.dev/icons?i=ts,js,cpp,py,ruby)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=ts,js,cpp,py)](https://skillicons.dev)
 
 ### Other stuff I enjoy! :kissing_cat:
 
